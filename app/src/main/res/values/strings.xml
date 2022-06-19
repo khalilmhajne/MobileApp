@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="moviename">MovieName</string>
+    <string name="MovieDate" />
+    <string name="MoviePopularity" />
+    <string name="Button" />
+    <string name="photo">Photo</string>
+    <string name="MoviePopular">popular</string>
+    <string name="Date">Date</string>
+    <string name="name">MovieName</string>
+    <string name="moviedate">MovieDate</string>
+    <string name="description">Description</string>
+    <string name="popularity">popularity</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="select_a_movie">Select a Movie</string>
+    <string name="ok">Ok</string>
+
+
+</resources>
